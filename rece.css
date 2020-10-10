@@ -1,0 +1,59 @@
+
+		body{
+			background-color: #FE0000;
+			font-family:Arial;
+			margin: 70px;
+		}
+		.categorie {
+			background-color: white;
+			color: black;
+			text-align: center;
+			max-width: 400px;
+			display: inline-block;
+			margin-bottom:0px ;
+
+		}
+	    div.contunu{
+	    	background-color: white;
+	        margin:0px;
+	        padding: 60px;
+
+	    }
+		h1{
+			text-align: center;
+			margin: 40px;
+			margin-bottom: 12px;
+			margin-top: 10px;
+		}
+        p.discreption{
+        	text-align: center;
+        	max-width:400px;
+        	display: inline-block;
+        	font-size: 15px;
+
+        }
+         div.discreption{
+         	text-align: center;
+         	/*mon commentaire CSS */
+         }
+         div.recette{
+         	text-align: center;
+         	margin:0px 40px 0px 40px ;
+         	margin-bottom: -10px;
+
+         }
+         div.separateur{
+         	width: 300px;
+         	height: 2px;
+         	background-color:black;
+         	margin-left: auto;
+         	margin-right: auto;
+         	max-height: 
+
+         }
+         .image{
+         	width: 100%;
+         }
+
+
+           
